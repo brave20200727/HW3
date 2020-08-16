@@ -2,9 +2,9 @@
 
 此為本周作業
 
-作業的commit比較少
-是因為我有截圖但是卻忘記每一次都commit
-之後要多習慣完成一個功能就要commit一次
+作業的commit比較少<br>
+是因為我有截圖但是卻忘記每一次都commit<br>
+之後要多習慣完成一個功能就要commit一次<br>
 
 說明：
 <img src="screen/HW3_1.png">
